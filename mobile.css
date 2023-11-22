@@ -1,0 +1,27 @@
+@media (max-width: 768px){
+    .container{
+        width: 100%;
+    }
+    .containerInputs{
+        width: 60%;
+    }
+
+    #emailInput{
+        width: 70%;
+    }
+    #passwordInput{
+        width: 70%;
+    }
+    h1{
+        display: flex;
+        justify-content: center;
+        font-size: 1.2em
+    }
+    #btnInput{
+        width: 100%;
+    }
+    #btnCadastro{
+        width: 100%;
+        font-size: 12px;
+    }
+}
